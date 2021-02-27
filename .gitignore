@@ -1,8 +1,16 @@
+.vscode
+
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+
+#Program Debug Database
+*.pdb
+
+#Incremental Linker File
+*.ilk
 
 # Precompiled Headers
 *.gch
@@ -28,4 +36,3 @@
 *.app
 
 build/
-.vscode/
