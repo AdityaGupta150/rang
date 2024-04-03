@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.1)
 
-project(rang 
-    VERSION 3.2.0
+project(rang
+    VERSION 3.3.0
     LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 11)
